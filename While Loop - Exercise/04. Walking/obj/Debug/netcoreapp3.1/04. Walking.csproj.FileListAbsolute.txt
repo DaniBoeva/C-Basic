@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.exe
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.deps.json
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.json
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.dll
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.pdb
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.dll
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.pdb
+C:\Users\Zdravko\source\repos\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.genruntimeconfig.cache
