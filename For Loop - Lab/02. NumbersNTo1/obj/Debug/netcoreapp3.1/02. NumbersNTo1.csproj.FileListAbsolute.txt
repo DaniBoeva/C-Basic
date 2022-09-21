@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\bin\Debug\netcoreapp3.1\02. NumbersNTo1.exe
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\bin\Debug\netcoreapp3.1\02. NumbersNTo1.deps.json
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\bin\Debug\netcoreapp3.1\02. NumbersNTo1.runtimeconfig.json
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\bin\Debug\netcoreapp3.1\02. NumbersNTo1.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\bin\Debug\netcoreapp3.1\02. NumbersNTo1.dll
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\bin\Debug\netcoreapp3.1\02. NumbersNTo1.pdb
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.dll
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.pdb
+C:\Users\Zdravko\source\repos\For Loop - Lab\02. NumbersNTo1\obj\Debug\netcoreapp3.1\02. NumbersNTo1.genruntimeconfig.cache
