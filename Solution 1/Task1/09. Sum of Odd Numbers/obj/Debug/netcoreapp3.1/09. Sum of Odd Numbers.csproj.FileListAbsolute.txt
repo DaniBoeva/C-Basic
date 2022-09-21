@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.exe
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.deps.json
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.json
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
+C:\Users\Zdravko\source\repos\Task1\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.genruntimeconfig.cache
