@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\netcoreapp3.1\02. Skeleton.exe
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\netcoreapp3.1\02. Skeleton.deps.json
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\netcoreapp3.1\02. Skeleton.runtimeconfig.json
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\netcoreapp3.1\02. Skeleton.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\netcoreapp3.1\02. Skeleton.dll
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\netcoreapp3.1\02. Skeleton.pdb
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.dll
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.pdb
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\netcoreapp3.1\02. Skeleton.genruntimeconfig.cache

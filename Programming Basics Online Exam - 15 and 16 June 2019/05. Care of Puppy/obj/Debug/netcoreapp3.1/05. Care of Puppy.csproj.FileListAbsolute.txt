@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.exe
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.deps.json
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.runtimeconfig.json
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.dll
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.pdb
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.dll
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.pdb
+C:\Users\Zdravko\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.genruntimeconfig.cache
