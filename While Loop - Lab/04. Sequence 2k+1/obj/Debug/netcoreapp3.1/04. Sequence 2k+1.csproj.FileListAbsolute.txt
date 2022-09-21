@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.exe
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.deps.json
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.json
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\Users\Zdravko\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.genruntimeconfig.cache
