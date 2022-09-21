@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\bin\Debug\netcoreapp3.1\04 Toy Shop.exe
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\bin\Debug\netcoreapp3.1\04 Toy Shop.deps.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\bin\Debug\netcoreapp3.1\04 Toy Shop.runtimeconfig.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\bin\Debug\netcoreapp3.1\04 Toy Shop.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\bin\Debug\netcoreapp3.1\04 Toy Shop.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\bin\Debug\netcoreapp3.1\04 Toy Shop.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\04 Toy Shop\obj\Debug\netcoreapp3.1\04 Toy Shop.genruntimeconfig.cache

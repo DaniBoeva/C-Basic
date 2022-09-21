@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\bin\Debug\netcoreapp3.1\01 Sum Seconds.exe
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\bin\Debug\netcoreapp3.1\01 Sum Seconds.deps.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\bin\Debug\netcoreapp3.1\01 Sum Seconds.runtimeconfig.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\bin\Debug\netcoreapp3.1\01 Sum Seconds.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\bin\Debug\netcoreapp3.1\01 Sum Seconds.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\bin\Debug\netcoreapp3.1\01 Sum Seconds.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\01 Sum Seconds\obj\Debug\netcoreapp3.1\01 Sum Seconds.genruntimeconfig.cache

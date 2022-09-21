@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05 Godzilla vs. Kong.exe
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05 Godzilla vs. Kong.deps.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05 Godzilla vs. Kong.runtimeconfig.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05 Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05 Godzilla vs. Kong.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05 Godzilla vs. Kong.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\05 Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05 Godzilla vs. Kong.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\bin\Debug\netcoreapp3.1\08 Lunch Break.exe
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\bin\Debug\netcoreapp3.1\08 Lunch Break.deps.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\bin\Debug\netcoreapp3.1\08 Lunch Break.runtimeconfig.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\bin\Debug\netcoreapp3.1\08 Lunch Break.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\bin\Debug\netcoreapp3.1\08 Lunch Break.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\bin\Debug\netcoreapp3.1\08 Lunch Break.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.dll
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.pdb
+C:\Users\Zdravko\source\repos\Conditional Statements Exs\08 Lunch Break\obj\Debug\netcoreapp3.1\08 Lunch Break.genruntimeconfig.cache
