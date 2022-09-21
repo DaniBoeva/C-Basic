@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.exe
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.deps.json
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+C:\Users\Zdravko\source\repos\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.genruntimeconfig.cache

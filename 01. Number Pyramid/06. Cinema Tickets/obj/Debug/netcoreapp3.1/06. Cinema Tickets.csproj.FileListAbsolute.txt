@@ -1,0 +1,14 @@
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.exe
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.deps.json
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.json
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.dev.json
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.AssemblyReference.cache
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfo.cs
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+C:\Users\Zdravko\source\repos\01. Number Pyramid\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.genruntimeconfig.cache
